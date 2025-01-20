@@ -1,0 +1,130 @@
+resume_profile:
+  name: '张三'
+  gender: '男'
+  age: 20
+  email: 'zhangsan@example.com'
+  education_background: '上海交通大学'
+  work_experience: '2年'
+  skills: 'Python, Java, C++, 机器学习, 深度学习'
+  projects: '项目1, 项目2, 项目3'
+  awards: '奖项1, 奖项2, 奖项3'
+  mobile_phone: '13800138000'
+  job_seeking_status: '在职'
+  desired_positions:
+    - position: '架构师'
+      location: '上海'
+      salary: '10000-20000元/月'
+      industry: '互联网/电子商务'
+      employment_type: '全职'
+    - position: '技术经理'
+      location: '上海'
+      salary: '10000-20000元/月'
+      industry: '互联网/电子商务'
+      employment_type: '全职'
+    - position: 'Golang开发工程师'
+      location: '上海'
+      salary: '10000-20000元/月'
+      industry: '互联网/电子商务'
+      employment_type: '全职'
+
+# 个人优势
+personal_advantage:
+  - 熟练掌握Python, Java, C++等编程语言
+  - 熟悉机器学习, 深度学习等人工智能技术
+  - 有丰富的项目经验, 能够独立完成项目开发
+  - 具有良好的沟通能力和团队协作精神
+
+education_details:
+  - school: '上海交通大学'
+    major: '计算机科学与技术'
+    degree: '本科'
+    start_date: '2016-09'
+    graduation_date: '2020-06'
+    school_experience: '在校期间担任学生会主席, 组织过多次大型活动'
+    graduation_project_topic: '基于深度学习的图像识别系统'
+    graduation_project_description: '该项目利用深度学习技术, 实现了图像识别系统的开发, 取得了良好的效果'
+
+work_experience:
+  - company: '阿里巴巴'
+    position: 'Python开发工程师'
+    start_date: '2020-07'
+    end_date: '2022-06'
+    work_experience: '在阿里巴巴工作期间, 参与了多个项目的开发, 取得了良好的效果'
+    work_experience_description: '在阿里巴巴工作期间, 参与了多个项目的开发, 取得了良好的效果'
+    work_experience_achievements: '在阿里巴巴工作期间, 参与了多个项目的开发, 取得了良好的效果'
+    work_experience_skills: 'Python, Java, C++, 机器学习, 深度学习'
+    work_experience_projects: '项目1, 项目2, 项目3'
+    work_experience_awards: '奖项1, 奖项2, 奖项3'
+    tags: ['Python', 'Java', 'C++', '机器学习', '深度学习']
+  - company: '腾讯'
+    position: 'Golang开发工程师'
+    start_date: '2022-07'
+    end_date: '2024-06'
+    work_experience: '在腾讯工作期间, 参与了多个项目的开发, 取得了良好的效果'
+    work_experience_description: '在腾讯工作期间, 参与了多个项目的开发, 取得了良好的效果'
+    work_experience_achievements: '在腾讯工作期间, 参与了多个项目的开发, 取得了良好的效果'
+    work_experience_skills: 'Golang, Python, Java, C++, 机器学习, 深度学习'
+    work_experience_projects: '项目1, 项目2, 项目3'
+    work_experience_awards: '奖项1, 奖项2, 奖项3'
+    tags: ['Golang', 'Python', 'Java', 'C++', '机器学习', '深度学习']
+  - company: '百度'
+    position: '架构师'
+    start_date: '2024-07'
+    end_date: '2025-06'
+    work_experience: '在百度工作期间, 参与了多个项目的开发, 取得了良好的效果'
+    work_experience_description: '在百度工作期间, 参与了多个项目的开发, 取得了良好的效果'
+    work_experience_achievements: '在百度工作期间, 参与了多个项目的开发, 取得了良好的效果'
+    work_experience_skills: 'Golang, Python, Java, C++, 机器学习, 深度学习'
+    work_experience_projects: '项目1, 项目2, 项目3'
+    work_experience_awards: '奖项1, 奖项2, 奖项3'
+    tags: ['Golang', 'Python', 'Java', 'C++', '机器学习', '深度学习']
+
+project_experience:
+  - project_name: '项目1'
+    project_role: '项目负责人'
+    project_start_date: '2020-07'
+    project_end_date: '2022-06'
+    project_description: '项目1的描述'
+    project_achievements: '项目1的成就'
+    project_link: 'https://github.com/project1'
+    project_skills: '项目1的技能'
+  - project_name: '项目2'
+    project_role: '项目负责人'
+    project_start_date: '2022-07'
+    project_end_date: '2024-06'
+    project_description: '项目2的描述'
+    project_achievements: '项目2的成就'
+    project_link: 'https://github.com/project2'
+    project_skills: '项目2的技能'
+  - project_name: '项目3'
+    project_role: '项目负责人'
+    project_start_date: '2024-07'
+    project_end_date: '2025-06'
+    project_description: '项目3的描述'
+    project_achievements: '项目3的成就'
+    project_link: 'https://github.com/project3'
+    project_skills: '项目3的技能'
+
+qualification_certificate:
+  - certificate_name: '证书1'
+    certificate_date: '2020-07'
+    certificate_link: 'https://github.com/certificate1'
+  - certificate_name: '证书2'
+    certificate_date: '2022-07'
+    certificate_link: 'https://github.com/certificate2'
+  - certificate_name: '证书3'
+    certificate_date: '2024-07'
+    certificate_link: 'https://github.com/certificate3'
+
+volunteer_experience:
+  - volunteer_experience_name: '志愿者经历1'
+    start_date: '2020-07'
+    end_date: '2022-06'
+    service_duration: '1年'
+    volunteer_experience_description: '志愿者经历1的描述'
+
+hobbies_and_interests:
+  - hobbies_and_interests_name: '兴趣爱好1'
+    hobbies_and_interests_description:
+      - '兴趣爱好1的描述1'
+      - '兴趣爱好1的描述2'

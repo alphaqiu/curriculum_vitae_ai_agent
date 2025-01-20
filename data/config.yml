@@ -1,0 +1,5 @@
+model: qwen-plus
+enable_langsmith: false
+task_path: ./data
+# secrets_file_name: secrets.yml
+# resume_file_name: info.yml
