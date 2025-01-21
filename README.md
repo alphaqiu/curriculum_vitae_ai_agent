@@ -15,6 +15,7 @@
 - Ready-to-use default resume template style
 - Supports multiple API integrations
 - Supports langsmith observability
+- Generate HTML file and PDF file
 
 ## Installation
 
@@ -78,6 +79,14 @@ python main.py --link "https://example.com/job-description" --config "./data/con
 
 - `--link` or `-l`: The URL of the job description (required).
 - `--config` or `-c`: Path to the configuration file (optional, defaults to `./data/config.yml`).
+
+## Generate Example
+
+The resume template has been modified based on 
+https://github.com/hoochanlon/jsonresume-theme-mix
+
+
+![example](./assets/example.png)
 
 ## Configuration
 
